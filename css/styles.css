@@ -1,0 +1,176 @@
+/* ------------ HEADER */
+#title {
+    font-family: 'Audiowide',
+        cursive;
+    margin-bottom: .5%;
+}
+
+/* ------------ NAV-BAR */
+.navbar {
+    margin-bottom: 0px;
+    background-color: #FF6D00;
+}
+
+.navBar {
+    margin: auto;
+}
+
+.navBarButtons {
+    margin: 0 10px 0 10px;
+}
+
+.homeNavMediaLinks {
+    font-size: 17px;
+}
+
+/* ------------ BODY */
+.bodyDiv {
+    background: #f0f0f0;
+    text-align: center;
+}
+
+.homeBodyHeading {
+    padding-top: .1%;
+    font-family: 'Dosis', sans-serif;
+}
+
+.bodyHeading {
+    padding-top: 2%;
+    padding-bottom: 1%;
+    font-family: 'Dosis', sans-serif;
+}
+
+.carouselDiv {
+    padding: 2% 20% 10% 20%;
+}
+
+/* about */
+.aboutContent {
+    padding: 2% 5% 2% 5%;
+}
+
+.contentLeft {
+    float: left;
+    /* overflow: hidden; */
+}
+
+.aboutImg {
+    height: 250px;
+    /* width: ; */
+}
+
+/* resume */
+.resumeBtnContent {
+    text-align: center;
+    padding: 3% 0% 0% 0%;
+}
+
+.resumeBtnInner {
+    display: inline-block;
+}
+
+.resumeHeading {
+    padding: 1% 4% .5% 4%;
+    font-family: 'Dosis', sans-serif;
+}
+
+.resumeSubHeading {
+    font-family: 'Dosis', sans-serif;
+}
+
+.resumeWorkBody {
+    background: #e6e6e6;
+}
+
+.resumeWorkLinks {
+    float: left;
+}
+
+.resumeWorkBodyIn {
+    padding: 0% 4% 4% 20%;
+}
+
+.resumeEducationBody {
+    background: #f0f0f0;
+}
+
+.resumeEducationBodyIn {
+    padding: 0% 4% 4% 20%;
+}
+
+.resumeSkillsBody {
+    background: #e6e6e6;
+}
+
+.resumeSkillsBodyIn {
+    padding: 0% 4% 1% 20%;
+}
+
+.resumeRow:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.resumeColumn {
+    float: left;
+    width: 30%;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+/* projects */
+.webProjectsDiv {
+    padding-top: 0%;
+    padding-bottom: 2%;
+}
+
+.otherProjectsDiv {
+    padding-bottom: 2%;
+}
+
+.projectLink {
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: .5%;
+}
+
+.githubBtn {
+    margin-bottom: 2%;
+}
+
+/* contact */
+.contactMeBody {
+    background: #f0f0f0;
+    margin: 2% 10% 0% 10%;
+    padding: 0%;
+}
+
+.contactMeHeading {
+    font-family: 'Signika Negative', sans-serif;
+    margin: 0% 0% 2% 0% !important;
+}
+
+.contactMeSection {
+    margin: 0% 5%;
+    padding: 2% 1% 2% 1%;
+}
+
+/* ------------ FOOTER */
+.footerNav {
+    padding: 0% 0% 0% 0%;
+    margin: auto;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.socialMedia {
+    color: white;
+    margin: auto;
+}
+
+a.btn-floating {
+    color: antiquewhite;
+}
